@@ -1,0 +1,338 @@
+[
+  {
+    "category": "backgrounds",
+    "file": "assets/backgrounds/background_greenhouse_interior.jpg",
+    "original": "01_Main_Menu_Background_2K_20261008133721.jpg",
+    "dimensions": "2752x1536",
+    "description": "Greenhouse interior saffron farm environment for main menu or gameplay scene."
+  },
+  {
+    "category": "cultivation_trays",
+    "file": "assets/cultivation_trays/tray_stage_01_soil.png",
+    "original": "Firefly (9).png",
+    "dimensions": "2410x1490",
+    "description": "Stage 1: Fresh prepared potting soil bed ready for planting"
+  },
+  {
+    "category": "cultivation_trays",
+    "file": "assets/cultivation_trays/tray_stage_02_bulbs.png",
+    "original": "Firefly (7).png",
+    "dimensions": "2410x1490",
+    "description": "Stage 2: Saffron corms / bulbs planted in soil"
+  },
+  {
+    "category": "cultivation_trays",
+    "file": "assets/cultivation_trays/tray_stage_03_sprouting.png",
+    "original": "Firefly (6).png",
+    "dimensions": "2410x1490",
+    "description": "Stage 3: Early germination sprouts emerging from soil"
+  },
+  {
+    "category": "cultivation_trays",
+    "file": "assets/cultivation_trays/tray_stage_04_growing.png",
+    "original": "Firefly (5).png",
+    "dimensions": "2410x1490",
+    "description": "Stage 4: Active vegetative growth of young green saffron shoots"
+  },
+  {
+    "category": "cultivation_trays",
+    "file": "assets/cultivation_trays/tray_stage_05_vegetative.png",
+    "original": "Firefly (4).png",
+    "dimensions": "2410x1490",
+    "description": "Stage 5: Full foliage mature saffron leaves"
+  },
+  {
+    "category": "cultivation_trays",
+    "file": "assets/cultivation_trays/tray_stage_06_bloom.png",
+    "original": "Firefly (2).png",
+    "dimensions": "2410x1490",
+    "description": "Stage 6: Blooming purple saffron flowers with red stigmas"
+  },
+  {
+    "category": "equipment",
+    "file": "assets/equipment/water_tank_storage.png",
+    "original": "Firefly.png",
+    "dimensions": "1078x1282",
+    "description": "Hydroponic / automated irrigation water storage tank with ladder, level gauge, and pipe valve."
+  },
+  {
+    "category": "equipment",
+    "file": "assets/equipment/saffron_harvest_basket.png",
+    "original": "Firefly (8).png",
+    "dimensions": "1841x1316",
+    "description": "Woven wicker basket overflowing with freshly harvested saffron flowers."
+  },
+  {
+    "category": "equipment",
+    "file": "assets/equipment/saffron_packaged_product.png",
+    "original": "Firefly (1).png",
+    "dimensions": "1875x1310",
+    "description": "Luxury saffron packaging display featuring glass jar filled with red saffron filaments and decorated box."
+  },
+  {
+    "category": "grow_lights",
+    "file": "assets/grow_lights/grow_light_stage_01_dim.png",
+    "original": "Firefly (10).png",
+    "dimensions": "643x456",
+    "description": "Stage 1: Low / dim purple spectrum grow light"
+  },
+  {
+    "category": "grow_lights",
+    "file": "assets/grow_lights/grow_light_stage_02_medium.png",
+    "original": "Firefly (10).png",
+    "dimensions": "645x455",
+    "description": "Stage 2: Medium intensity purple spectrum grow light"
+  },
+  {
+    "category": "grow_lights",
+    "file": "assets/grow_lights/grow_light_stage_03_bright_glow.png",
+    "original": "Firefly (10).png",
+    "dimensions": "644x456",
+    "description": "Stage 3: High intensity luminous blooming grow light with radiant flare"
+  },
+  {
+    "category": "grow_lights",
+    "file": "assets/grow_lights/grow_light_stage_04_standard.png",
+    "original": "Firefly (10).png",
+    "dimensions": "643x458",
+    "description": "Stage 4: Standard active full-spectrum purple LED grow light"
+  },
+  {
+    "category": "dryers",
+    "file": "assets/dryers/dryer_state_01_off_empty.png",
+    "original": "Firefly (11).png",
+    "dimensions": "627x541",
+    "description": "State 1: Powered off / empty dehydrator unit with mesh racks"
+  },
+  {
+    "category": "dryers",
+    "file": "assets/dryers/dryer_state_02_preheating.png",
+    "original": "Firefly (11).png",
+    "dimensions": "627x541",
+    "description": "State 2: Preheating empty chamber with interior illumination"
+  },
+  {
+    "category": "dryers",
+    "file": "assets/dryers/dryer_state_03_drying_low.png",
+    "original": "Firefly (11).png",
+    "dimensions": "626x541",
+    "description": "State 3: Active drying - saffron filaments loading and heating underway"
+  },
+  {
+    "category": "dryers",
+    "file": "assets/dryers/dryer_state_04_drying_high.png",
+    "original": "Firefly (11).png",
+    "dimensions": "627x541",
+    "description": "State 4: Peak heat dehydration with glowing thermal vents and illuminated filaments"
+  },
+  {
+    "category": "dryers",
+    "file": "assets/dryers/dryer_state_05_completed.png",
+    "original": "Firefly (11).png",
+    "dimensions": "622x543",
+    "description": "State 5: Drying completed - digital timer shows 00:00:00 with fully dried saffron"
+  },
+  {
+    "category": "dryers",
+    "file": "assets/dryers/dryer_state_06_cooldown_idle.png",
+    "original": "Firefly (11).png",
+    "dimensions": "621x543",
+    "description": "State 6: Cooled down / idle finished cycle ready for extraction"
+  },
+  {
+    "category": "watering_can",
+    "file": "assets/watering_can/watering_can_anim_01_idle.png",
+    "original": "Firefly (12).png",
+    "dimensions": "531x407",
+    "description": "Frame 1: Watering can idle / resting on ground"
+  },
+  {
+    "category": "watering_can",
+    "file": "assets/watering_can/watering_can_anim_02_tilt.png",
+    "original": "Firefly (12).png",
+    "dimensions": "500x446",
+    "description": "Frame 2: Watering can tilting forward in preparation to pour"
+  },
+  {
+    "category": "watering_can",
+    "file": "assets/watering_can/watering_can_anim_03_spray.png",
+    "original": "Firefly (12).png",
+    "dimensions": "558x742",
+    "description": "Frame 3: Watering can pouring initial water spray with droplets"
+  },
+  {
+    "category": "watering_can",
+    "file": "assets/watering_can/watering_can_anim_04_stream.png",
+    "original": "Firefly (12).png",
+    "dimensions": "578x764",
+    "description": "Frame 4: Watering can pouring heavy stream with splash ripples"
+  },
+  {
+    "category": "watering_can",
+    "file": "assets/watering_can/watering_can_anim_05_drip.png",
+    "original": "Firefly (12).png",
+    "dimensions": "509x436",
+    "description": "Frame 5: Watering can returning upright with single water drop at spout"
+  },
+  {
+    "category": "icons",
+    "file": "assets/icons/banner_axiomgreen_title.png",
+    "original": "Firefly (13).png",
+    "dimensions": "1538x149",
+    "description": "Decorative logo banner text: 'AxiomGreen Icon Set' flanked by stylized green leaves."
+  },
+  {
+    "category": "icons",
+    "file": "assets/icons/icon_currency_gold_coin.png",
+    "original": "Firefly (13).png",
+    "dimensions": "397x411",
+    "description": "Gold coin currency with embossed VR emblem"
+  },
+  {
+    "category": "icons",
+    "file": "assets/icons/icon_resource_water_drop.png",
+    "original": "Firefly (13).png",
+    "dimensions": "328x412",
+    "description": "Water drop resource icon with splashing droplets"
+  },
+  {
+    "category": "icons",
+    "file": "assets/icons/icon_energy_light_bulb.png",
+    "original": "Firefly (13).png",
+    "dimensions": "289x425",
+    "description": "Glowing yellow light bulb icon for energy/electricity/light"
+  },
+  {
+    "category": "icons",
+    "file": "assets/icons/icon_timer_stopwatch.png",
+    "original": "Firefly (13).png",
+    "dimensions": "373x435",
+    "description": "Stopwatch / clock icon for task timer and growth countdowns"
+  },
+  {
+    "category": "icons",
+    "file": "assets/icons/icon_rating_star.png",
+    "original": "Firefly (13).png",
+    "dimensions": "369x386",
+    "description": "Golden reward star icon for score, rating, and milestones"
+  },
+  {
+    "category": "icons",
+    "file": "assets/icons/icon_level_progress_badge.png",
+    "original": "Firefly (13).png",
+    "dimensions": "516x243",
+    "description": "Green and gold 'LV' level banner ribbon badge"
+  },
+  {
+    "category": "icons",
+    "file": "assets/icons/icon_saffron_corm_bulb.png",
+    "original": "Firefly (13).png",
+    "dimensions": "316x410",
+    "description": "Saffron corm / bulb seed with green sprout shoot"
+  },
+  {
+    "category": "icons",
+    "file": "assets/icons/icon_saffron_flower.png",
+    "original": "Firefly (13).png",
+    "dimensions": "352x406",
+    "description": "Individual purple saffron blossom with prized red stigmas"
+  },
+  {
+    "category": "icons",
+    "file": "assets/icons/icon_delivery_shipping_box.png",
+    "original": "Firefly (13).png",
+    "dimensions": "386x392",
+    "description": "Cardboard delivery parcel box printed with AxiomGreen logo"
+  },
+  {
+    "category": "icons",
+    "file": "assets/icons/icon_status_checkmark.png",
+    "original": "Firefly (13).png",
+    "dimensions": "383x353",
+    "description": "Green glossy checkmark emblem in golden frame for success / completion"
+  },
+  {
+    "category": "ui_buttons",
+    "file": "assets/ui_buttons/btn_tools_crafting.png",
+    "original": "Firefly (14).png",
+    "dimensions": "220x223",
+    "description": "Tools button: crossed hammer and garden shovel in bronze ring"
+  },
+  {
+    "category": "ui_buttons",
+    "file": "assets/ui_buttons/btn_market_shop.png",
+    "original": "Firefly (14).png",
+    "dimensions": "221x223",
+    "description": "Market shop button: striped canopy market stall cart in bronze ring"
+  },
+  {
+    "category": "ui_buttons",
+    "file": "assets/ui_buttons/btn_inventory_backpack.png",
+    "original": "Firefly (14).png",
+    "dimensions": "221x223",
+    "description": "Inventory button: leather adventurer backpack in bronze ring"
+  },
+  {
+    "category": "ui_buttons",
+    "file": "assets/ui_buttons/btn_quests_tasks.png",
+    "original": "Firefly (14).png",
+    "dimensions": "220x223",
+    "description": "Quests button: clipboard checklist with checkmarks and gold star"
+  },
+  {
+    "category": "ui_buttons",
+    "file": "assets/ui_buttons/btn_settings_options.png",
+    "original": "Firefly (14).png",
+    "dimensions": "222x226",
+    "description": "Settings button: mechanical dual cogs and gears on teal badge"
+  },
+  {
+    "category": "ui_buttons",
+    "file": "assets/ui_buttons/btn_menu_hamburger.png",
+    "original": "Firefly (14).png",
+    "dimensions": "223x225",
+    "description": "Menu button: triple wooden slats hamburger icon in dark teal frame"
+  },
+  {
+    "category": "ui_buttons",
+    "file": "assets/ui_buttons/btn_navigation_left.png",
+    "original": "Firefly (14).png",
+    "dimensions": "223x225",
+    "description": "Nav left button: green wooden arrow pointing left in gold ring"
+  },
+  {
+    "category": "ui_buttons",
+    "file": "assets/ui_buttons/btn_navigation_right.png",
+    "original": "Firefly (14).png",
+    "dimensions": "222x225",
+    "description": "Nav right button: green wooden arrow pointing right in gold ring"
+  },
+  {
+    "category": "ui_buttons",
+    "file": "assets/ui_buttons/btn_action_cancel_close.png",
+    "original": "Firefly (14).png",
+    "dimensions": "223x226",
+    "description": "Cancel / close button: bold red X emblem on stone disc with bronze border"
+  },
+  {
+    "category": "ui_buttons",
+    "file": "assets/ui_buttons/btn_action_add_plus.png",
+    "original": "Firefly (14).png",
+    "dimensions": "224x225",
+    "description": "Add / buy / upgrade button: golden plus symbol on emerald button"
+  },
+  {
+    "category": "ui_buttons",
+    "file": "assets/ui_buttons/btn_status_locked.png",
+    "original": "Firefly (14).png",
+    "dimensions": "224x225",
+    "description": "Locked feature button: heavy iron and brass padlock on wooden badge"
+  },
+  {
+    "category": "ui_buttons",
+    "file": "assets/ui_buttons/btn_greenhouse_facility.png",
+    "original": "Firefly (14).png",
+    "dimensions": "223x225",
+    "description": "Greenhouse home button: red barn farm greenhouse facility in gold ring"
+  }
+]
